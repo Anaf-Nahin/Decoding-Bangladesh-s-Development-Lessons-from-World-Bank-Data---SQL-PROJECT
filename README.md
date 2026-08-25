@@ -1,4 +1,4 @@
-# Decoding-Bangladesh-s-Development-Lessons-from-World-Bank-Data---SQL-PROJECT
+# Decoding-Bangladesh's-Development-Lessons-from-World-Bank-Data---SQL-PROJECT
 
 Started as a data analysis bootcamp assignment, but Bangladesh's decades of borrowing, disbursement, and repayment activity stood out as a compelling story — especially given the country's 6.4% average GDP growth and drop in poverty from 11.8% to 5.0% between 2010–2023. The project explores what loan data can reveal about a country's financial reliability, execution capacity, and development trajectory.
 
