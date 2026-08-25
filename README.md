@@ -20,3 +20,11 @@ CASE WHEN
 CTEs (WITH clause)
 Window Functions (RANK, SUM OVER, PARTITION BY)
 Subqueries
+
+
+KEY BUSINESS INSIGHTS
+Bangladesh borrows below the regional cost of capital. Its average IDA service charge rate is 0.82%, versus a 1% average across South Asia — a measurable pricing advantage on billions in outstanding financing.
+Borrowing moves in defined growth cycles, not steadily. Committed loan amounts peak in 2011, 2018, and again in recent years, pointing to major infrastructure and development pushes rather than continuous, incremental borrowing.
+Disbursement is strong but has visibly slowed since 2020. Bangladesh's overall disbursement rate is 67.55% (the lowest in South Asia, but still a strong signal internationally), with a widening gap between committed and disbursed funds in 2023–2024 as newer multi-year projects ramp up.
+The funding mix is diversifying beyond credits. Financing was historically almost all credits, but grants have grown since the 2010s — with a visible spike around 2020 tied to COVID-19 emergency assistance — while guarantees remain a small but present share.
+Loan exposure is significant relative to GDP, but well-utilized. Total committed loans reach $47.76B (10.47% of GDP), with $33.24B actually disbursed (7.29% of GDP) — a double-digit exposure that calls for continued debt-sustainability monitoring, offset by a high disbursement rate showing Bangladesh's capacity to convert commitments into real project execution.
